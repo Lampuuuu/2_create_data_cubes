@@ -1,0 +1,6 @@
+Data/
+
+# Data Formats
+*.csv
+*.scu
+*.geojson
